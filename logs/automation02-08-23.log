@@ -1,0 +1,41 @@
+02/08/2023 05:50:17 PM - LandingPage - INFO: Waiting for a maximum of 10seconds for element //strong[text()='YOU MUST BE OVER 18 AND AGREE TO THE TERMS BELOW BEFORE CONTINUING:']to be visible
+02/08/2023 05:50:17 PM - LandingPage - INFO: Element appeared on the webpage
+02/08/2023 05:50:17 PM - LandingPage - INFO: Element Found with locator: //a[text()='I AGREE'] and locatorType: xpath
+02/08/2023 05:50:18 PM - LandingPage - INFO: Clicked on element with locator: //a[text()='I AGREE'] locatorType: xpath
+02/08/2023 05:50:18 PM - LandingPage - INFO: Elements Found with locator: //ul[@id='room_list']/li and locatorType: xpath
+02/08/2023 05:50:18 PM - LandingPage - INFO: Element Found with locator: //ul[@id='room_list']/li[2]/a and locatorType: xpath
+02/08/2023 05:50:18 PM - LandingPage - INFO: Element Found with locator: //ul[@id='room_list']/li[2]/a and locatorType: xpath
+02/08/2023 05:50:20 PM - LandingPage - INFO: Clicked on element with locator: //ul[@id='room_list']/li[2]/a locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: URL Captured: https://chaturbate.com/prettylatinababy/
+02/08/2023 05:50:20 PM - Room - INFO: Waiting for a maximum of 10seconds for element //ul[@id='nav']/ato be visible
+02/08/2023 05:50:20 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:20 PM - Room - INFO: Element Found with locator: //ul[@id='nav']/a and locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Element is displayed with locator: //ul[@id='nav']/a locatoryType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Waiting for a maximum of 10seconds for element //span[contains(text(),'CAM')]to be visible
+02/08/2023 05:50:20 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:20 PM - Room - INFO: Element Found with locator: //span[contains(text(),'CAM')] and locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Element is displayed with locator: //span[contains(text(),'CAM')] locatoryType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Waiting for a maximum of 10seconds for element //div[@data-paction='CurrentShowBuyBox']/div/spanto be visible
+02/08/2023 05:50:20 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:20 PM - Room - INFO: Element Found with locator: //div[@data-paction='CurrentShowBuyBox']/div/span and locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Element is displayed with locator: //div[@data-paction='CurrentShowBuyBox']/div/span locatoryType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Waiting for a maximum of 10seconds for element //div[contains(@class,'vjs-playing')]to be visible
+02/08/2023 05:50:20 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:20 PM - Room - INFO: Element Found with locator: //div[contains(@class,'vjs-playing')] locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Starting Click scan cams function
+02/08/2023 05:50:20 PM - Room - INFO: URL Captured: https://chaturbate.com/prettylatinababy/
+02/08/2023 05:50:20 PM - Room - INFO: Waiting for a maximum of 10seconds for element //span[contains(text(),'CAM')]to be visible
+02/08/2023 05:50:20 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:20 PM - Room - INFO: Element Found with locator: //span[contains(text(),'CAM')] and locatorType: xpath
+02/08/2023 05:50:20 PM - Room - INFO: Clicked on element with locator: //span[contains(text(),'CAM')] locatorType: xpath
+02/08/2023 05:50:22 PM - Room - INFO: URL Captured: https://chaturbate.com/aya_hitakayama/?next_in=15
+02/08/2023 05:50:22 PM - Room - INFO: Waiting for a maximum of 10seconds for element //span[contains(text(),'CAM')]to be visible
+02/08/2023 05:50:22 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:22 PM - Room - INFO: Element Found with locator: //span[contains(text(),'CAM')] and locatorType: xpath
+02/08/2023 05:50:22 PM - Room - INFO: Clicked on element with locator: //span[contains(text(),'CAM')] locatorType: xpath
+02/08/2023 05:50:24 PM - Room - INFO: URL Captured: https://chaturbate.com/chillwithkira/?next_in=15
+02/08/2023 05:50:24 PM - Room - INFO: Waiting for a maximum of 10seconds for element //span[contains(text(),'CAM')]to be visible
+02/08/2023 05:50:24 PM - Room - INFO: Element appeared on the webpage
+02/08/2023 05:50:24 PM - Room - INFO: Element Found with locator: //span[contains(text(),'CAM')] and locatorType: xpath
+02/08/2023 05:50:24 PM - Room - INFO: Clicked on element with locator: //span[contains(text(),'CAM')] locatorType: xpath
+02/08/2023 05:50:26 PM - Room - INFO: URL Captured: https://chaturbate.com/enna__miller/?next_in=15
